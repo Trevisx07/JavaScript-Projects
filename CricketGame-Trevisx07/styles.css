@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    padding-bottom: 25px;
+    border-radius: 25px;
+    background-color: aliceblue;
+  }
+  h1{
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: blanchedalmond;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+  
+  .choice-button {
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgba(64, 0, 255, 0.268);
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  .choice-image {
+    height: 50px;
+  }

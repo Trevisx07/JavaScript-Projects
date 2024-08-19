@@ -1,0 +1,31 @@
+#Calculator{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    background-color: antiquewhite;
+    margin: 69px;
+}
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+    background-color: azure;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.button-cantainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+     width: 45px;
+     height: 45px;
+     margin: 4px;
+     border-radius: 10px;
+     border: .1px solid black;
+
+}
+.heading{
+    font-family: cursive;
+}
